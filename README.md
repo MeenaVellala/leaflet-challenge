@@ -39,3 +39,5 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
   * Your visualization should look something like the preceding map.
   ![https://static.bc-edx.com/data/dl-1-2/m15/lms/img/2-BasicMap.jpg](https://static.bc-edx.com/data/dl-1-2/m15/lms/img/2-BasicMap.jpg)
+
+* To view the website https://meenavellala.github.io/leaflet-challenge/
